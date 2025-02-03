@@ -24,7 +24,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 > อ้างอิง https://ene.kmutt.ac.th/en/en-home/
 
-```graph TD;
+```mermaid
+graph TD;
     A[application knowledge] -->|influences| B[specification]
     A --> C[HW-components]
     A --> D[system software <br> (RTOS, ...)]
