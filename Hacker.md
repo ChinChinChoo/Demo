@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF79C&center=true&width=435&lines=Welcome+to+ENE+331!;I+love+Aj+Pinit.!;Don't+Forget+To+Assign+Your+Works)](https://git.io/typing-svg)

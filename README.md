@@ -25,6 +25,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 > อ้างอิง https://ene.kmutt.ac.th/en/en-home/
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF79C&center=true&width=435&lines=Welcome+to+ENE+331!;I+love+Aj+Pinit.!;Don't+Forget+To+Assign+Your+Works)](https://git.io/typing-svg)
 
 ```mermaid
 graph TD;
