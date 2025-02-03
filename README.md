@@ -24,13 +24,21 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 > อ้างอิง https://ene.kmutt.ac.th/en/en-home/
 
-```mermaid
-graph TD;
-  A[Start] --> B{Decision};
-  B -->|Yes| C[Do something];
-  B -->|No| D[Do something else];
-  C --> E[End];
-  D --> E[End];
+```graph TD;
+    A[application knowledge] -->|influences| B[specification]
+    A --> C[HW-components]
+    A --> D[system software <br> (RTOS, ...)]
+    B --> E[design repository]
+    C --> E
+    D --> E
+    E -->|input to| F[design]
+    E --> G[application mapping]
+    G --> H[optimization]
+    H --> I[evaluation & validation]
+    I --> J[test]
+    J -.-> E
+    F --> K[test]
+
 
 
 
