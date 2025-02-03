@@ -36,4 +36,6 @@ graph TD;
   C --> E[End];
   D --> E[End];
 
+![Cool GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftoothless-animation-gifs&psig=AOvVaw2PugtSIr8MMWgsESADWBoL&ust=1738667759203000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi9kKWwp4sDFQAAAAAdAAAAABAE)
+
 
