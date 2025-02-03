@@ -22,11 +22,9 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 | ข้อมูล A  | ข้อมูล B  | ข้อมูล C  |
 
 
-> อ้างอิง
+> อ้างอิง https://ene.kmutt.ac.th/en/en-home/
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 ```mermaid
 graph TD;
@@ -36,6 +34,6 @@ graph TD;
   C --> E[End];
   D --> E[End];
 
-![Cool GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftoothless-animation-gifs&psig=AOvVaw2PugtSIr8MMWgsESADWBoL&ust=1738667759203000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi9kKWwp4sDFQAAAAAdAAAAABAE)
+![Custom GIF](C:\Users\ACER\Documents\GitHub\Demo\thootless-toothless.gif)
 
 
