@@ -10,9 +10,11 @@ font-size: 24px;">
 🌈 ENE331!!!!!!
 </span>
 
+
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 🔥 🚀 💡 🎉
+
 
 | หัวข้อ 1  | หัวข้อ 2  | หัวข้อ 3  |
 |-----------|-----------|-----------|
@@ -20,21 +22,17 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 | ข้อมูล A  | ข้อมูล B  | ข้อมูล C  |
 
 
+> อ้างอิง https://ene.kmutt.ac.th/en/en-home/
+
+
+
 ```mermaid
 graph TD;
-    A[application knowledge] -->|influences| B[specification]
-    A --> C[HW-components]
-    A --> D[system software <br> (RTOS, ...)]
-    B --> E[design repository]
-    C --> E
-    D --> E
-    E -->|input to| F[design]
-    E --> G[application mapping]
-    G --> H[optimization]
-    H --> I[evaluation & validation]
-    I --> J[test]
-    J -.-> E
-    F --> K[test]
+  A[Start] --> B{Decision};
+  B -->|Yes| C[Do something];
+  B -->|No| D[Do something else];
+  C --> E[End];
+  D --> E[End];
 
 
-> อ้างอิง https://ene.kmutt.ac.th/en/en-home/
+
