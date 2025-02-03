@@ -24,8 +24,6 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 > อ้างอิง https://ene.kmutt.ac.th/en/en-home/
 
-
-
 ```mermaid
 graph TD;
   A[Start] --> B{Decision};
@@ -34,6 +32,5 @@ graph TD;
   C --> E[End];
   D --> E[End];
 
-![Custom GIF](C:\Users\ACER\Documents\GitHub\Demo\thootless-toothless.gif)
 
 
