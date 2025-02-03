@@ -2,6 +2,15 @@
 ## Hi
 # HI
 
+<span style="background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: bold;
+font-size: 24px;">
+🌈 ENE331!!!!!!
+</span>
+
+
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 🔥 🚀 💡 🎉
@@ -18,3 +27,13 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+```mermaid
+graph TD;
+  A[Start] --> B{Decision};
+  B -->|Yes| C[Do something];
+  B -->|No| D[Do something else];
+  C --> E[End];
+  D --> E[End];
+
+
